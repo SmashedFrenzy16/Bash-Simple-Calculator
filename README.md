@@ -1,2 +1,2 @@
-# Bash-Simple-Calculator
-A simple calculator that was made using Shell. Don't use it for cheating on Maths tests!
+# Bash Simple Calculator
+A simple calculator that was made using Shell (using a tutorial). Don't use it for cheating on Maths tests!
